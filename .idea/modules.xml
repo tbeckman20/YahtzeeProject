@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dep2/Dep2.iml" filepath="$PROJECT_DIR$/Dep2/Dep2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dep3/Dep3.iml" filepath="$PROJECT_DIR$/Dep3/Dep3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dep4/Dep4.iml" filepath="$PROJECT_DIR$/Dep4/Dep4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level1/Level1.iml" filepath="$PROJECT_DIR$/Level1/Level1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level2/Level2.iml" filepath="$PROJECT_DIR$/Level2/Level2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level3/Level3.iml" filepath="$PROJECT_DIR$/Level3/Level3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level4/Level4.iml" filepath="$PROJECT_DIR$/Level4/Level4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level5/Level5.iml" filepath="$PROJECT_DIR$/Level5/Level5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YahtzeeProject.iml" filepath="$PROJECT_DIR$/YahtzeeProject.iml" />
+    </modules>
+  </component>
+</project>
